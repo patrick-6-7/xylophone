@@ -1,6 +1,14 @@
-# xylophone
+# Xylophone App 🎶
 
-A simple flutter app which plays 7 different sounds when pressend on tiles using audioplayers package.
-- audioplayers package. (https://pub.dev/documentation/audioplayers/latest/)
+A simple Flutter app that plays seven unique sounds when pressing different tiles, creating a xylophone effect.
 
-learned how .waw files handled and played concurently.
+# Features
+- Interactive Sound Tiles: Each of the seven tiles produces a distinct sound upon tap, allowing users to create music.
+- Smooth Audio Playback: Leveraging the audioplayers package for responsive and concurrent playback of .wav sound files.
+
+# Audioplayers Documentation
+- (https://pub.dev/documentation/audioplayers/latest/)
+
+# Learnings
+Audio Playback: Gained experience handling .wav files with the audioplayers package, ensuring each file plays concurrently and smoothly.
+learned how .wav files handled and played concurently.
